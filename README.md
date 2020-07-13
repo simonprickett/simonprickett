@@ -12,4 +12,8 @@ Check out my website at [simon.prickett.dev](https://simonprickett.dev).  You ca
 
 ## Latest Article on my Website
 
+### [Building a Redis Prize Draw Application with Flask or Express]
 
+![alt text](https://simonprickett.dev/assets/images/prizedraw_main.jpg)
+
+I decided to build a small application that would demonstrate some features of Redis in a fun and engaging way. I quickly hit upon t... **[Read in full...](https://simonprickett.dev/building-a-redis-prize-draw-application/)**
