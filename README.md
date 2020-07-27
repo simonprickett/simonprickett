@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Building a Redis Prize Draw Application with Flask or Express
+### Making a Zoom Panic Switch with the Adafruit Trinket M0
 
-![alt text](https://simonprickett.dev/assets/images/prizedraw_main.jpg)
+![alt text](https://simonprickett.dev/assets/images/arcade_keyboard_main.jpg)
 
-I decided to build a small application that would demonstrate some features of Redis in a fun and engaging way. I quickly hit upon t... **[Read in full...](https://simonprickett.dev/building-a-redis-prize-draw-application/)**
+Recently we’ve all been spending a lot more of our time on video conference calls from home. I’m sure that, like me, you find yourself... **[Read in full...](https://simonprickett.dev/making-a-single-button-keyboard/)**
