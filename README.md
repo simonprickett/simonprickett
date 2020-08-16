@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Making a Zoom Panic Switch with the Adafruit Trinket M0
+### Visiting the Salton Sea
 
-![alt text](https://simonprickett.dev/assets/images/arcade_keyboard_main.jpg)
+![Visit Bombay Beach Sign](https://simonprickett.dev/assets/images/salton_main.jpg)
 
-Recently we’ve all been spending a lot more of our time on video conference calls from home. I’m sure that, like me, you find yourself... **[Read in full...](https://simonprickett.dev/making-a-single-button-keyboard/)**
+I got in the car, and did a 375 mile round trip to the Salton Sea and back! **[Read in full...](https://simonprickett.dev/visiting-the-salton-sea/)**
