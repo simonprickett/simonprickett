@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Visiting the Salton Sea
+### Building a Visual Bloom Filter with Raspberry Pi, Python and Unicorn Hat
 
-![Visit Bombay Beach Sign](https://simonprickett.dev/assets/images/salton_main.jpg)
+![Sunflowers](https://simonprickett.dev/assets/images/bloom_main.jpg)
 
-I got in the car, and did a 375 mile round trip to the Salton Sea and back! **[Read in full...](https://simonprickett.dev/visiting-the-salton-sea/)**
+Bloom filters are a probabalistic data structure that I’ve wanted to learn more about for a while. When I started reading up on them, I found a lot of the material to be quite dry and theoretical, so I thought I’d try and implement one in hardware somehow and make my own visual learning aid... **[Read in full...](https://simonprickett.dev/visual-bloom-filter-with-raspberry-pi/)**
