@@ -16,4 +16,4 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ![Sunflowers](https://simonprickett.dev/assets/images/bloom_main.jpg)
 
-Bloom filters are a probabalistic data structure that I’ve wanted to learn more about for a while. When I started reading up on them, I found a lot of the material to be quite dry and theoretical, so I thought I’d try and implement one in hardware somehow and make my own visual learning aid... **[Read in full...](https://simonprickett.dev/visual-bloom-filter-with-raspberry-pi/)**
+Bloom filters are a probabilistic data structure that I’ve wanted to learn more about for a while. When I started reading up on them, I found a lot of the material to be quite dry and theoretical, so I thought I’d try and implement one in hardware somehow and make my own visual learning aid... **[Read in full...](https://simonprickett.dev/visual-bloom-filter-with-raspberry-pi/)**
