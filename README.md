@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Building a Visual Bloom Filter with Raspberry Pi, Python and Unicorn Hat
+### Using the Raspberry Pi 4 as a Desktop Computer
 
-![Sunflowers](https://simonprickett.dev/assets/images/bloom_main.jpg)
+![Raspberry Pi 4](https://simonprickett.dev/assets/images/pi_desktop_main.jpg)
 
-Bloom filters are a probabilistic data structure that I’ve wanted to learn more about for a while. When I started reading up on them, I found a lot of the material to be quite dry and theoretical, so I thought I’d try and implement one in hardware somehow and make my own visual learning aid... **[Read in full...](https://simonprickett.dev/visual-bloom-filter-with-raspberry-pi/)**
+Launched in 2019, the Raspberry Pi 4 was a significant upgrade over previous models. With USB 3, gigabit ethernet, a faster processor, dual 4K HDMI display support and options for 2, 4 or 8Gb RAM it seemed to be breaking into the low end desktop computer space.. **[Read in full...](https://simonprickett.dev/using-the-raspberry-pi-4-as-a-desktop-computer/)**
