@@ -12,8 +12,10 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Using the Raspberry Pi 4 as a Desktop Computer
+### Releasing a Dead or Alive Wikipedia Package on npm
 
-![Raspberry Pi 4](https://simonprickett.dev/assets/images/pi_desktop_main.jpg)
+![Raspberry Pi 4](https://simonprickett.dev/assets/images/doa_main.jpg)
 
-Launched in 2019, the Raspberry Pi 4 was a significant upgrade over previous models. With USB 3, gigabit ethernet, a faster processor, dual 4K HDMI display support and options for 2, 4 or 8Gb RAM it seemed to be breaking into the low end desktop computer space.. **[Read in full...](https://simonprickett.dev/using-the-raspberry-pi-4-as-a-desktop-computer/)**
+A long time ago, I used to be a regular listener to Simon Mayo’s Radio 1 show. He ran a “Dead or Alive” segment where a listener would call in, and he’d challenge them to tell him whether a series of celebrities were dead or still alive.
+
+I figured this might be a fun game to replicate, using Wikipedia pages as my source of truth **[Read in full...](https://simonprickett.dev/wikipedia-dead-or-alive/)**
