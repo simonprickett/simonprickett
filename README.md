@@ -14,8 +14,6 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ### Releasing a Dead or Alive Wikipedia Package on npm
 
-![Raspberry Pi 4](https://simonprickett.dev/assets/images/doa_main.jpg)
+![Lego Audi Quattro S1](https://simonprickett.dev/assets/images/lego_audi_main.jpg)
 
-A long time ago, I used to be a regular listener to Simon Mayo’s Radio 1 show. He ran a “Dead or Alive” segment where a listener would call in, and he’d challenge them to tell him whether a series of celebrities were dead or still alive.
-
-I figured this might be a fun game to replicate, using Wikipedia pages as my source of truth **[Read in full...](https://simonprickett.dev/wikipedia-dead-or-alive/)**
+I received Lego’s kit of the 1985 Audi Sport Quattro S1 for my birthday recently, and decided to have a bit of fun building it by recording the process using my iPhone, then making a sped up video of it... **[Read in full...](https://simonprickett.dev/building-the-lego-audi-quattro/)**
