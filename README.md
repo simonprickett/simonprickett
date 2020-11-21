@@ -12,7 +12,7 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Releasing a Dead or Alive Wikipedia Package on npm
+### Building the Lego Audi Quattro S1 Set
 
 ![Lego Audi Quattro S1](https://simonprickett.dev/assets/images/lego_audi_main.jpg)
 
