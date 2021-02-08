@@ -12,7 +12,7 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Building the Lego Audi Quattro S1 Set
+### Dead or Alive - an Alexa Skill using Redis
 
 ![Alexa device and a sofa](https://simonprickett.dev/assets/images/alexa_doa_main.jpg)
 
