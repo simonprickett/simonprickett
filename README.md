@@ -14,6 +14,6 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ### Building the Lego Audi Quattro S1 Set
 
-![Lego Audi Quattro S1](https://simonprickett.dev/assets/images/lego_audi_main.jpg)
+![Alexa device and a sofa](https://simonprickett.dev/assets/images/alexa_doa_main.jpg)
 
-I received Lego’s kit of the 1985 Audi Sport Quattro S1 for my birthday recently, and decided to have a bit of fun building it by recording the process using my iPhone, then making a sped up video of it... **[Read in full...](https://simonprickett.dev/building-the-lego-audi-quattro/)**
+I often find that I build an Alexa skill whenever I want to play around with an API. The voice interface is easy to get started with and I can create something without worrying about visual design or CSS :) A while ago I created a Dead or Alive package that’s on npm… let’s see what it takes to turn that into a game for Alexa where the user has to determine whether a few celebrities are dead or alive... **[Read in full...](https://simonprickett.dev/alexa-redis-dead-or-alive/)**
