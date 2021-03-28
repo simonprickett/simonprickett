@@ -14,6 +14,6 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ### Dead or Alive - an Alexa Skill using Redis
 
-![Alexa device and a sofa](https://simonprickett.dev/assets/images/alexa_doa_main.jpg)
+![A game using arcade buttons](https://simonprickett.dev/assets/images/pi_pico_main.jpg)
 
-I often find that I build an Alexa skill whenever I want to play around with an API. The voice interface is easy to get started with and I can create something without worrying about visual design or CSS :) A while ago I created a Dead or Alive package that’s on npm… let’s see what it takes to turn that into a game for Alexa where the user has to determine whether a few celebrities are dead or alive... **[Read in full...](https://simonprickett.dev/alexa-redis-dead-or-alive/)**
+Raspberry Pi recently released the Pico, their first microcontoller. This is a bit of a departure from their previous single board computers that cost a bit more, and run a full operating system. Think of the Pico more like an Arduino… you can program it in C or MicroPython and it runs your code and nothing else.... **[Read in full...](https://simonprickett.dev/buttons-and-leds-with-micropython-for-pi-pico/)**
