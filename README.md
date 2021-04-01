@@ -12,7 +12,7 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Dead or Alive - an Alexa Skill using Redis
+### Buttons and LEDs with MicroPython for the Raspberry Pi Pico
 
 ![A game using arcade buttons](https://simonprickett.dev/assets/images/pi_pico_main.jpg)
 
