@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Buttons and LEDs with MicroPython for the Raspberry Pi Pico
+### Getting Started with Express - Building an API: Part 1
 
-![A game using arcade buttons](https://simonprickett.dev/assets/images/pi_pico_main.jpg)
+![An express train in Japan](https://simonprickett.dev/assets/images/express1_main.jpg)
 
-Raspberry Pi recently released the Pico, their first microcontoller. This is a bit of a departure from their previous single board computers that cost a bit more, and run a full operating system. Think of the Pico more like an Arduino… you can program it in C or MicroPython and it runs your code and nothing else.... **[Read in full...](https://simonprickett.dev/buttons-and-leds-with-micropython-for-pi-pico/)**
+Express is a popular framework for Node.js, intended for use in building web applications and APIs. In this article and the accompanying video, I’ll show you how to get started with it and we’ll build a server that mimics some behaviors of a key/value store... **[Read in full...](https://simonprickett.dev/getting-started-with-express-js-build-an-api/)**
