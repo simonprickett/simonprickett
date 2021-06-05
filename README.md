@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Getting Started with Express - Building an API: Part 1
+### No, Maybe and Close Enough! Probabilistic Data Structures with Python
 
-![An express train in Japan](https://simonprickett.dev/assets/images/express1_main.jpg)
+![Sheep in a field](https://simonprickett.dev/assets/images/pycon_main.jpg)
 
-Express is a popular framework for Node.js, intended for use in building web applications and APIs. In this article and the accompanying video, I’ll show you how to get started with it and we’ll build a server that mimics some behaviors of a key/value store... **[Read in full...](https://simonprickett.dev/getting-started-with-express-js-build-an-api/)**
+In this talk that I produced for Pycon USA 2021 I take a look at the Hyperloglog and Bloom Filter probabilistic data structures, using examples with the Python language and Redis with the RedisBloom module... **[Read in full...](https://simonprickett.dev/no-maybe-and-good-enough-probabilistic-data-structures-in-python/)**
