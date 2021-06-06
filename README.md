@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### No, Maybe and Close Enough! Probabilistic Data Structures with Python
+### The M5Stack Core Ink Pomodoro Timer
 
-![Sheep in a field](https://simonprickett.dev/assets/images/pycon_main.jpg)
+![Tomatoes](https://simonprickett.dev/assets/images/m5stack_pomodoro_main.jpg)
 
-In this talk that I produced for Pycon USA 2021 I take a look at the Hyperloglog and Bloom Filter probabilistic data structures, using examples with the Python language and Redis with the RedisBloom module... **[Read in full...](https://simonprickett.dev/no-maybe-and-good-enough-probabilistic-data-structures-in-python/)**
+The Pomodoro Technique is a time management method developed by Italian Francesco Cirillo in which a timer is used to break work into time periods separated by breaks. Each time period is called a pomodoro - Cirillo used a tomato shaped kitchen timer, and “tomato” in Italian is “pomodoro”. **[Read in full...](https://simonprickett.dev/the-m5stack-core-ink-pomodoro-timer/)**
