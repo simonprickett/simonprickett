@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### The M5Stack Core Ink Pomodoro Timer
+### Raspberry Pi Coding with .NET: Traffic Lights
 
-![Tomatoes](https://simonprickett.dev/assets/images/m5stack_pomodoro_main.jpg)
+![Traffic Lights](https://simonprickett.dev/assets/images/pi_traffic_lights_dotnet_main.jpg)
 
-The Pomodoro Technique is a time management method developed by Italian Francesco Cirillo in which a timer is used to break work into time periods separated by breaks. Each time period is called a pomodoro - Cirillo used a tomato shaped kitchen timer, and “tomato” in Italian is “pomodoro”. **[Read in full...](https://simonprickett.dev/the-m5stack-core-ink-pomodoro-timer/)**
+It’s been a long time coming, but I finally decided to produce a C#/.NET version of my original Raspberry Pi / Low Voltage Labs traffic lights Python article. **[Read in full...](https://simonprickett.dev/raspberry-pi-coding-with-dotnet-traffic-lights/)**
