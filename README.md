@@ -6,7 +6,7 @@ I'm currently employed as the Developer Advocacy Manager for [Redis](https://red
 
 Outside of my day job, I enjoy tinkering with Raspberry Pi and Arduino single board computers and building hardware projects with them. I recently acquired a BBC micro:bit and need to spend some time learning about that. I periodically write about IoT topics and speak at Meetup groups or conferences.
 
-Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can also find me as [@simon_prickett](https://twitter.com/simon_prickett) on Twitter (account currently inactive), and in a [few other places](https://simonprickett.dev/contact/).
+Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can also find me as [@simon_prickett](https://twitter.com/simon_prickett) on Twitter, and in a [few other places](https://simonprickett.dev/contact/).
 
 ---
 
