@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Raspberry Pi Coding with .NET: Traffic Lights
+### Raspberry Pi Coding with Rust: Traffic Lights
 
-![Traffic Lights](https://simonprickett.dev/assets/images/pi_traffic_lights_dotnet_main.jpg)
+![Traffic Lights](https://simonprickett.dev/assets/images/pi_traffic_lights_rust_main.jpg)
 
-It’s been a long time coming, but I finally decided to produce a C#/.NET version of my original Raspberry Pi / Low Voltage Labs traffic lights Python article. **[Read in full...](https://simonprickett.dev/raspberry-pi-coding-with-dotnet-traffic-lights/)**
+t’s time to produce yet another version of my original Raspberry Pi / Low Voltage Labs traffic lights Python article. This time, let’s try it with Rust - a compiled language with syntax similar to C++, and which was originally designed at Mozilla. **[Read in full...](https://simonprickett.dev/raspberry-pi-coding-with-rust-traffic-lights/)**
