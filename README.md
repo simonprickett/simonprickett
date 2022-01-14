@@ -16,4 +16,4 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ![Traffic Lights](https://simonprickett.dev/assets/images/pi_traffic_lights_rust_main.jpg)
 
-t’s time to produce yet another version of my original Raspberry Pi / Low Voltage Labs traffic lights Python article. This time, let’s try it with Rust - a compiled language with syntax similar to C++, and which was originally designed at Mozilla. **[Read in full...](https://simonprickett.dev/raspberry-pi-coding-with-rust-traffic-lights/)**
+It’s time to produce yet another version of my original Raspberry Pi / Low Voltage Labs traffic lights Python article. This time, let’s try it with Rust - a compiled language with syntax similar to C++, and which was originally designed at Mozilla. **[Read in full...](https://simonprickett.dev/raspberry-pi-coding-with-rust-traffic-lights/)**
