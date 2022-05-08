@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Raspberry Pi Coding with Rust: Traffic Lights
+### Making a Bus Stop API with Cloudflare Workers
 
-![Traffic Lights](https://simonprickett.dev/assets/images/pi_traffic_lights_rust_main.jpg)
+![Nottingham City Transport double decker bus](https://simonprickett.dev/assets/images/bus_api_main.jpg)
 
-It’s time to produce yet another version of my original Raspberry Pi / Low Voltage Labs traffic lights Python article. This time, let’s try it with Rust - a compiled language with syntax similar to C++, and which was originally designed at Mozilla. **[Read in full...](https://simonprickett.dev/raspberry-pi-coding-with-rust-traffic-lights/)**
+Public transport services can be great sources of live or near-live data to use when building out an application or trying some new front end technology. **[Read in full...](https://simonprickett.dev/bus-stop-api-with-cloudflare-workers/)**
