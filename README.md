@@ -12,8 +12,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Making a Bus Stop API with Cloudflare Workers
+### Things on Thursdays: A Live Streaming Series
 
-![Nottingham City Transport double decker bus](https://simonprickett.dev/assets/images/bus_api_main.jpg)
+![Someone soldering something at a desk with bench power supply](https://simonprickett.dev/assets/images/things_on_thursdays_main.jpg)
 
-Public transport services can be great sources of live or near-live data to use when building out an application or trying some new front end technology. **[Read in full...](https://simonprickett.dev/bus-stop-api-with-cloudflare-workers/)**
+s part of my job as the Principal Developer Advocate at Redis, I’ve been producing a live stream series in which I take a look at how Redis or related concepts can be used with a variety of Internet of Things devices. These streams go out most weeks on Thursdays... **[Read in full...](https://simonprickett.dev/things-on-thursdays-livestreams/)**
