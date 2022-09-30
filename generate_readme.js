@@ -21,11 +21,6 @@ async function updateReadme() {
   const imageStyleAttr = imageDivAttrs.getNamedItem('style').value;
   const imageUrl = `${WEBSITE_HOME_PAGE}${imageStyleAttr.substring(imageStyleAttr.indexOf('(') + 1, imageStyleAttr.indexOf(')')).trim()}`;
   
-  console.log(title);
-  console.log(url);
-  console.log(excerpt);
-  console.log(imageUrl);
-
   // Build a new README.md from the template.md file and values gathered from my website.
   const template = handlebars.compile(fs.readFileSync('template.md').toString());
   const newReadMe = template({ title, excerpt, url, imageUrl });
