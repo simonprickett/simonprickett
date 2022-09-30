@@ -1,6 +1,6 @@
 # Simon Prickett
 
-Hi - thanks for dropping by. I'm Simon Prickett, an experienced software professional.
+Hi - thanks for dropping by. I'm Simon Prickett, an experienced developer relations professional.
 
 I'm currently employed as the Principal Developer Advocate for [Redis](https://redis.com) where I lead the team that develops course materials and accompanying example applications, videos and blog posts for our online [Redis University](https://university.redis.com) courses. I'm the principal teacher for the [Redis for JavaScript (Node.js) Developers course](https://university.redis.com/courses/ru102js/), and have also contributed to the [Redis Streams](https://university.redis.com/courses/ru202/) and [Redis for Java Developers](https://university.redis.com/courses/ru102j/) courses.
 
