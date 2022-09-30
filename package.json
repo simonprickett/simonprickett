@@ -1,0 +1,27 @@
+{
+  "name": "github-profile-readme-updater",
+  "version": "0.0.1",
+  "description": "GitHub Profile README Updater",
+  "main": "generate_readme.js",
+  "scripts": {
+    "start": "node generate_readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonprickett/simonprickett.git"
+  },
+  "keywords": [
+    "GitHub"
+  ],
+  "author": "Simon Prickett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonprickett/simonprickett/issues"
+  },
+  "homepage": "https://github.com/simonprickett/simonprickett#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "jsdom": "^20.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
