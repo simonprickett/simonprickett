@@ -13,9 +13,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Things on Thursdays: A Live Streaming Series
+### Geodesic Lines with the Google Maps Geometry API
 
-![Latest Blog Image](https://simonprickett.dev/assets/images/things_on_thursdays_main.jpg)
+![Latest Blog Image](https://simonprickett.dev/assets/images/geodesic_maps_main.jpg)
 
-As part of my job as the Principal Developer Advocate at Redis, I’ve been producing a live stream series in which I take a look at ho...
- **[Read in full...](https://simonprickett.dev/things-on-thursdays-livestreams/)**
+Who doesn’t like a good map? I’ve always enjoyed working with data that lends itself to mapping, and have built a few interactive things with the Google Maps API before. I’m also pretty interested in aviation and, as part of that, I keep a note of which airports I’ve flown between, which airlines and what type of aircraft I’ve travelled on. **[Read in full...](https://simonprickett.dev/things-on-thursdays-livestreams/)**
