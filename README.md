@@ -13,8 +13,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Geodesic Lines with the Google Maps Geometry API
+### Taking Pictures with Raspberry Pi and Redis
 
-![Latest Blog Image](https://simonprickett.dev/assets/images/geodesic_maps_main.jpg)
+![Latest Blog Image](https://simonprickett.dev/assets/images/pi_photos_redis_main.jpg)
 
-Who doesn’t like a good map? I’ve always enjoyed working with data that lends itself to mapping, and have built a few interactive things with the Google Maps API before. I’m also pretty interested in aviation and, as part of that, I keep a note of which airports I’ve flown between, which airlines and what type of aircraft I’ve travelled on. **[Read in full...](https://simonprickett.dev/things-on-thursdays-livestreams/)**
+How can you store images in Redis from a Python script?” - I was asked this by someone looking to build an IoT project that used Redis as the data store for image classification. The really short answer is... **[Read in full...](https://simonprickett.dev/taking-pictures-with-raspberry-pi-and-redis/)**
