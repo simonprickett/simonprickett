@@ -15,6 +15,6 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ### Taking Pictures with Raspberry Pi and Redis
 
-![Latest Blog Image](https://simonprickett.dev/assets/images/pi_photos_redis_main.jpg)
+![Latest Blog Image](https://simonprickett.dev/assets/images/flipdot_main.jpg)
 
-How can you store images in Redis from a Python script?” - I was asked this by someone looking to build an IoT project that used Redis as the data store for image classification. The really short answer is... **[Read in full...](https://simonprickett.dev/taking-pictures-with-raspberry-pi-and-redis/)**
+The Raspberry Pint Meetup Group invited me to talk about how flip dot displays work at one of their hybrid meetup events. I’ve embeeded the video of my talk below - this article is a transcript of the talk with images of the slide deck throughout and a list of resources at the end. Enjoy... **[Read in full...](https://simonprickett.dev/flip-dot-displays-with-raspberry-pi/)**
