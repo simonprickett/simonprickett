@@ -13,8 +13,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Taking Pictures with Raspberry Pi and Redis
+### Carbon Intensity Display With Raspberry Pi Pico and Pimoroni GFX Pack
 
-![Latest Blog Image](https://simonprickett.dev/assets/images/flipdot_main.jpg)
+![Latest Blog Image](https://simonprickett.dev/assets/images/carbonintensity_main.jpg)
 
-The Raspberry Pint Meetup Group invited me to talk about how flip dot displays work at one of their hybrid meetup events. I’ve embeeded the video of my talk below - this article is a transcript of the talk with images of the slide deck throughout and a list of resources at the end. Enjoy... **[Read in full...](https://simonprickett.dev/flip-dot-displays-with-raspberry-pi/)**
+Global warming is a thing, and we can all do our bit by reducing our carbon footprint. One way of achieving this would be to move more things that we use electricity for (cooking, charging electric vehicles, washing clothes etc) to times when our electricity generation was as green as possible. To do this, we’d need a way of knowing when those times are so that we could take manual or automated action... **[Read in full...](https://simonprickett.dev/carbon-intensity-display-with-raspberry-pi-pico-and-pimoroni-gfx-pack/)**
