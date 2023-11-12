@@ -13,8 +13,8 @@ Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can
 
 ## Latest Article on my Website
 
-### Carbon Intensity Display With Raspberry Pi Pico and Pimoroni GFX Pack
+### What's on BBC Radio with Pimoroni Pico Display Pack 2
 
-![Latest Blog Image](https://simonprickett.dev/assets/images/carbonintensity_main.jpg)
+![Latest Blog Image](https://simonprickett.dev/assets/images/bbcradio_main.jpg)
 
-Global warming is a thing, and we can all do our bit by reducing our carbon footprint. One way of achieving this would be to move more things that we use electricity for (cooking, charging electric vehicles, washing clothes etc) to times when our electricity generation was as green as possible. To do this, we’d need a way of knowing when those times are so that we could take manual or automated action... **[Read in full...](https://simonprickett.dev/carbon-intensity-display-with-raspberry-pi-pico-and-pimoroni-gfx-pack/)**
+At home in our kitchen we have an Amazon Echo Show device that we use for a few things. When cooking, it’s handy to be able to yell out “Alexa, set timer 15 minutes” so that we can keep track of how long something needs. The primary thing we use the Echo Show for is accessing digital / online radio stations... **[Read in full...](https://simonprickett.dev/whats-on-bbc-radio-with-pimoroni-pico-display-pack-2/)**
