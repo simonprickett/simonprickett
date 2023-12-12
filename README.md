@@ -8,6 +8,8 @@ Outside of my day job, I enjoy tinkering with Raspberry Pi and Arduino single bo
 
 Check out my website at [simonprickett.dev](https://simonprickett.dev).  You can also find me as [@simon_prickett](https://twitter.com/simon_prickett) on Twitter, and in a [few other places](https://simonprickett.dev/contact/).  I'm always open to talk about developer relations, learn more about me by [reading my resume](https://simonprickett.dev/resume/).
 
+If you find value in my projects, please consider [buying me a coffee on Ko-Fi](https://ko-fi.com/simonprickett).  Your support helps me buy materials for future projects.
+
 
 ---
 
