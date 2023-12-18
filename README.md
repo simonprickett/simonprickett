@@ -15,8 +15,8 @@ If you find value in my projects, please consider [buying me a coffee on Ko-Fi](
 
 ## Latest Article on my Website
 
-### What's on BBC Radio with Pimoroni Pico Display Pack 2
+### Completing the PiHut Maker Advent Calendar
 
-![Latest Blog Image](https://simonprickett.dev/assets/images/bbcradio_main.jpg)
+![Latest Blog Image](https://simonprickett.dev/assets/images/advent_main.jpg)
 
-At home in our kitchen we have an Amazon Echo Show device that we use for a few things. When cooking, it’s handy to be able to yell out “Alexa, set timer 15 minutes” so that we can keep track of how long something needs. The primary thing we use the Echo Show for is accessing digital / online radio stations... **[Read in full...](https://simonprickett.dev/whats-on-bbc-radio-with-pimoroni-pico-display-pack-2/)**
+Last year I noticed that UK Raspberry Pi reseller The Pi Hut had made a really nice looking “12 Projects of Codemas” maker advent calendar. It was a large box containing 12 smaller ones, each containing parts that built up various Raspberry Pi Pico projects.... **[Read in full...](https://simonprickett.dev/completing-the-pihut-maker-advent-calendar/)**
