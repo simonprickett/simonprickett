@@ -15,8 +15,8 @@ If you find value in my projects, please consider [buying me a coffee on Ko-Fi](
 
 ## Latest Article on my Website
 
-### MicroPython on the M5Stack Atom Matrix: A Live Streaming Series
+### Building the Lego Creator Shuttle
 
-![Latest Blog Image](https://simonprickett.dev/assets/images/m5atom_main.jpg)
+![Latest Blog Image](https://simonprickett.dev/assets/images/creator_shuttle_main.jpg)
 
-The Atom Matrix is a tiny (24mm x 24mm x 14mm) ESP32 based device from M5Stack. For such a small thing at a nice price (around US$ 15 at the time of writing) it has a lot to offer... **[Read in full...](https://simonprickett.dev/micropython-on-the-m5stack-atom-matrix/)**
+I was minding my own business in the local Lidl, shopping for some breakfast items. As I turned a corner into the infamous “Middle of Lidl” aisle, I spotted a Lego Shuttle set that I wasn’t aware existed... **[Read in full...](https://simonprickett.dev/building-the-lego-creator-shuttle/)**
