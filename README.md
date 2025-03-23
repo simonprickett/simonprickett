@@ -2,7 +2,7 @@
 
 Hi - thanks for dropping by. I'm Simon Prickett, a skilled Developer Relations practitioner with over 30 years of technical training, software architecture, team and product management and software development experience.
 
-In my current employment, I'm solely responsible for all things Developer Relations at [CrateDB](https://cratedb.com).
+In my most recent employment, I was solely responsible for all things Developer Relations at [CrateDB](https://cratedb.com).
 
 Prior to that I was the Principal Developer Advocate for [Redis](https://redis.com), where I led the team that develops course materials and accompanying example applications, videos and blog posts for the online [Redis University](https://university.redis.com) courses. I was the principal teacher for the [Redis for JavaScript (Node.js) Developers course](https://university.redis.com/courses/ru102js/), and have also contributed to the [Redis Streams](https://university.redis.com/courses/ru202/), [Storing Querying and Indexing JSON at Speed](https://university.redis.com/courses/ru204/) and [Redis for Java Developers](https://university.redis.com/courses/ru102j/) courses.  I spoke at conferences and events, desiged and delivered workshops, answered technical questions on Discord and StackOverflow and created a lot of technical live streams.  I contributed code and documentation to several Redis client SDKs and other projects on a regular basis.
 
