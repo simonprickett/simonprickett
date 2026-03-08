@@ -19,6 +19,6 @@ If you find value in my projects, please consider [buying me a coffee on Ko-Fi](
 
 ### Building the Lego Creator Shuttle
 
-![Latest Blog Image](https://simonprickett.dev/assets/images/creator_shuttle_main.jpg)
+![Latest Blog Image](https://simonprickett.dev/assets/images/creator_shuttle_main.webp)
 
 I was minding my own business in the local Lidl, shopping for some breakfast items. As I turned a corner into the infamous “Middle of Lidl” aisle, I spotted a Lego Shuttle set that I wasn’t aware existed... **[Read in full...](https://simonprickett.dev/building-the-lego-creator-shuttle/)**
